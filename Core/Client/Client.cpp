@@ -8,7 +8,7 @@
 #include "Network.hpp"
 #include "NetWatcher.hpp"
 #include "FirewallRules.hpp"
-#include "Linux/DNS.hpp"
+#include "DNS.hpp"
 #include "NetworkRollback.hpp"
 #include "Client.hpp"
 

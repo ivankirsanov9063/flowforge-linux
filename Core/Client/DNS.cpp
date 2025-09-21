@@ -1,4 +1,4 @@
-#include "Linux/DNS.hpp"
+#include "DNS.hpp"
 #include "Core/Logger.hpp"
 
 #include <arpa/inet.h>
